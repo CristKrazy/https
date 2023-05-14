@@ -1,4 +1,6 @@
 # usage
+npm install fake-useragent
+
 npm install axios
 
 npm install request
